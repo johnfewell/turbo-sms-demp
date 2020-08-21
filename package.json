@@ -9,9 +9,9 @@
     "postinstall": "npm run build"
   },
   "dependencies": {
-    "superagent": "^3.6.1",
+    "superagent": "3.8.3",
     "turbo360": "latest",
-    "twilio": "^3.7.0"
+    "twilio": "3.49.0"
   },
   "devDependencies": {
     "express": "latest",
